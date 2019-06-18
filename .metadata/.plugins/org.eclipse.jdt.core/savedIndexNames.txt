@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Developing\Futureman2007\BenchmarkSpeedTest\.metadata\.plugins\org.eclipse.jdt.core
+4262187141.index
+1362094500.index
+3061573698.index

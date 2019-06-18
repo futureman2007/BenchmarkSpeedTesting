@@ -1,0 +1,7 @@
+::@ECHO OFF
+cd /D %~dp0
+rmdir /Q /S deploy
+mkdir deploy
+cd target/classes
+jmod create --class-path ".;%JAVA_HOME%/jmods" --main-class speed.testing.Speedtest speedtestmod.jmod
+pause
